@@ -1,0 +1,11 @@
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\bin\Debug\P3_1_1184110.exe.config
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\bin\Debug\P3_1_1184110.exe
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\bin\Debug\P3_1_1184110.pdb
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\obj\Debug\P3_1_1184110.csproj.AssemblyReference.cache
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\obj\Debug\P3_1_1184110.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\obj\Debug\P3_1_1184110.Form1.resources
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\obj\Debug\P3_1_1184110.Properties.Resources.resources
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\obj\Debug\P3_1_1184110.csproj.GenerateResource.cache
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\obj\Debug\P3_1_1184110.csproj.CoreCompileInputs.cache
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\obj\Debug\P3_1_1184110.exe
+C:\Users\Aftershock\source\repos\P3_1_1184110\P3_1_1184110\obj\Debug\P3_1_1184110.pdb
